@@ -140,8 +140,8 @@ export default function Footer() {
               <div className="flex items-center space-x-3">
                 <MapPin className="w-4 h-4 text-[#fed106] flex-shrink-0" />
                 <span className="text-gray-300 text-sm">
-                  Sector 15, Model Town<br />
-                  Ludhiana, Punjab 141001
+                  VPO: Qila Lal Singh<br />
+                  Batala, Punjab 141001
                 </span>
               </div>
               <div className="flex items-center space-x-3">
